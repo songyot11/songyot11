@@ -16,9 +16,9 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently working on ReactJS Project
+- 🌱 I’m currently working on React.JS Project
 
-- 💻 I’m also working as a Freelancer or Part time.
+- 💻 I’m also working as a freelancer or part time.
 
 - 📫 How to reach me **songyot_jaichai@hotmail.com**
 
